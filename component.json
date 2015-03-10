@@ -1,0 +1,14 @@
+{
+  "name": "splitray",
+  "repo": "abpai/splitray",
+  "description": "Clone and split array into smaller arrays on length specified",
+  "version": "0.0.1",
+  "keywords": [
+    "split array",
+    "smaller array"
+  ],
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
