@@ -2,7 +2,7 @@
   "name": "splitray",
   "repo": "abpai/splitray",
   "description": "Clone and split array into smaller arrays on length specified",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "split array",
     "smaller array"
